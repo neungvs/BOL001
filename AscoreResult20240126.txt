@@ -1,0 +1,30 @@
+Appno|Grade|GradeDescription|ModelVersion|Model|StatusCode|Message
+MYMO23122423370669298650A|D|ความเสี่ยงสูง|V1.0|Personal|333|Success
+MYMO23122214163622510134A|F|ความเสี่ยงสูงที่สุด|V1.0|Personal|333|Success
+MYMO23122214265046966087A|D|ความเสี่ยงสูง|V1.0|Personal|333|Success
+MYMO23122214421849616187A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Personal|333|Success
+MYMO23092615274519616188A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Microfinance|333|Success
+MYMO23092615274619616189A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Microfinance|333|Success
+MYMO23092615274712510171A|D|ความเสี่ยงสูง|V1.0|Microfinance|333|Success
+MYMO23092615274816966082A|D|ความเสี่ยงสูง|V1.0|Microfinance|333|Success
+MYMO23092615274912986503A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Microfinance|333|Success
+MYMO23092615275012986504A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Mortgage|333|Success
+MYMO23092615275112986505A|D|ความเสี่ยงสูง|V1.0|Mortgage|333|Success
+MYMO23092615275212986506A|C|ความเสี่ยงค่อนข้างสูง|V1.0|Mortgage|333|Success
+MYMO23092615275312986507A|D|ความเสี่ยงสูง|V1.0|Mortgage|333|Success
+MYMO23092615275412986508A|D|ความเสี่ยงสูง|V1.0|Mortgage|333|Success
+MYMO23092615275512986509A|D|ความเสี่ยงสูง|V1.0|Mortgage|333|Success
+MYMO23092615275112986510A|Score not Require||||
+MYMO23092615275212986511A|Score not Require||||
+MYMO23092615275312986512A|Score not Require||||
+MYMO23092615275412986513A|Score not Require||||
+MYMO23092615275512986514A|Score not Require||||
+MYMO23092615275012986515A|Score not Require||||
+MYMO23092615275412986516A|Score not Require||||
+MYMO23092615275512986517A|Score not Require||||
+MYMO23092615275112986518A|Score not Require||||
+MYMO23092615275212986519A|Score not Require||||
+MYMO23092615275312986520A|Score not Require||||
+MYMO23092615275312986521A|Score not Require||||
+MYMO23092615275312986522A|Score not Require||||
+Total 28
